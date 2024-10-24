@@ -1,0 +1,8 @@
+D:\Gitы\c-ktshki\Исключения. Блоки try, catch, finally\Исключения. Блоки try, catch, finally\bin\Debug\Исключения.Блоки_try__catch__finally.exe.config
+D:\Gitы\c-ktshki\Исключения. Блоки try, catch, finally\Исключения. Блоки try, catch, finally\bin\Debug\Исключения.Блоки_try__catch__finally.exe
+D:\Gitы\c-ktshki\Исключения. Блоки try, catch, finally\Исключения. Блоки try, catch, finally\bin\Debug\Исключения.Блоки_try__catch__finally.pdb
+D:\Gitы\c-ktshki\Исключения. Блоки try, catch, finally\Исключения. Блоки try, catch, finally\obj\Debug\Исключения. Блоки try, catch, finally.csproj.AssemblyReference.cache
+D:\Gitы\c-ktshki\Исключения. Блоки try, catch, finally\Исключения. Блоки try, catch, finally\obj\Debug\Исключения. Блоки try, catch, finally.csproj.SuggestedBindingRedirects.cache
+D:\Gitы\c-ktshki\Исключения. Блоки try, catch, finally\Исключения. Блоки try, catch, finally\obj\Debug\Исключения. Блоки try, catch, finally.csproj.CoreCompileInputs.cache
+D:\Gitы\c-ktshki\Исключения. Блоки try, catch, finally\Исключения. Блоки try, catch, finally\obj\Debug\Исключения.Блоки_try__catch__finally.exe
+D:\Gitы\c-ktshki\Исключения. Блоки try, catch, finally\Исключения. Блоки try, catch, finally\obj\Debug\Исключения.Блоки_try__catch__finally.pdb
