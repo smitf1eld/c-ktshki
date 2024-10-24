@@ -1,0 +1,8 @@
+D:\Gitы\c-ktshki\Stack\Stack\bin\Debug\Stack.exe.config
+D:\Gitы\c-ktshki\Stack\Stack\bin\Debug\Stack.exe
+D:\Gitы\c-ktshki\Stack\Stack\bin\Debug\Stack.pdb
+D:\Gitы\c-ktshki\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+D:\Gitы\c-ktshki\Stack\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+D:\Gitы\c-ktshki\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\Gitы\c-ktshki\Stack\Stack\obj\Debug\Stack.exe
+D:\Gitы\c-ktshki\Stack\Stack\obj\Debug\Stack.pdb
