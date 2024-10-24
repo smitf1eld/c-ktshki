@@ -1,0 +1,8 @@
+D:\Gitы\c-ktshki\Асинхронные методы и свойства. Async, await\Асинхронные методы и свойства. Async, await\bin\Debug\Асинхронные_методы_и_свойства.Async__await.exe.config
+D:\Gitы\c-ktshki\Асинхронные методы и свойства. Async, await\Асинхронные методы и свойства. Async, await\bin\Debug\Асинхронные_методы_и_свойства.Async__await.exe
+D:\Gitы\c-ktshki\Асинхронные методы и свойства. Async, await\Асинхронные методы и свойства. Async, await\bin\Debug\Асинхронные_методы_и_свойства.Async__await.pdb
+D:\Gitы\c-ktshki\Асинхронные методы и свойства. Async, await\Асинхронные методы и свойства. Async, await\obj\Debug\Асинхронные методы и свойства. Async, await.csproj.AssemblyReference.cache
+D:\Gitы\c-ktshki\Асинхронные методы и свойства. Async, await\Асинхронные методы и свойства. Async, await\obj\Debug\Асинхронные методы и свойства. Async, await.csproj.SuggestedBindingRedirects.cache
+D:\Gitы\c-ktshki\Асинхронные методы и свойства. Async, await\Асинхронные методы и свойства. Async, await\obj\Debug\Асинхронные методы и свойства. Async, await.csproj.CoreCompileInputs.cache
+D:\Gitы\c-ktshki\Асинхронные методы и свойства. Async, await\Асинхронные методы и свойства. Async, await\obj\Debug\Асинхронные_методы_и_свойства.Async__await.exe
+D:\Gitы\c-ktshki\Асинхронные методы и свойства. Async, await\Асинхронные методы и свойства. Async, await\obj\Debug\Асинхронные_методы_и_свойства.Async__await.pdb
