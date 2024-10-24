@@ -1,0 +1,8 @@
+D:\Gitы\c-ktshki\Дебаггинг\Дебаггинг\obj\Debug\Дебаггинг.csproj.AssemblyReference.cache
+D:\Gitы\c-ktshki\Дебаггинг\Дебаггинг\obj\Debug\Дебаггинг.csproj.SuggestedBindingRedirects.cache
+D:\Gitы\c-ktshki\Дебаггинг\Дебаггинг\obj\Debug\Дебаггинг.csproj.CoreCompileInputs.cache
+D:\Gitы\c-ktshki\Дебаггинг\Дебаггинг\bin\Debug\Дебаггинг.exe.config
+D:\Gitы\c-ktshki\Дебаггинг\Дебаггинг\bin\Debug\Дебаггинг.exe
+D:\Gitы\c-ktshki\Дебаггинг\Дебаггинг\bin\Debug\Дебаггинг.pdb
+D:\Gitы\c-ktshki\Дебаггинг\Дебаггинг\obj\Debug\Дебаггинг.exe
+D:\Gitы\c-ktshki\Дебаггинг\Дебаггинг\obj\Debug\Дебаггинг.pdb
