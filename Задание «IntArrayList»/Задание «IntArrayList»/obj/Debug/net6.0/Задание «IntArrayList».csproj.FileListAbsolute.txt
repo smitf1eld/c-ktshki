@@ -1,0 +1,5 @@
+D:\Gitы\c-ktshki\Задание «IntArrayList»\Задание «IntArrayList»\obj\Debug\net6.0\Задание «IntArrayList».csproj.AssemblyReference.cache
+D:\Gitы\c-ktshki\Задание «IntArrayList»\Задание «IntArrayList»\obj\Debug\net6.0\Задание «IntArrayList».GeneratedMSBuildEditorConfig.editorconfig
+D:\Gitы\c-ktshki\Задание «IntArrayList»\Задание «IntArrayList»\obj\Debug\net6.0\Задание «IntArrayList».AssemblyInfoInputs.cache
+D:\Gitы\c-ktshki\Задание «IntArrayList»\Задание «IntArrayList»\obj\Debug\net6.0\Задание «IntArrayList».AssemblyInfo.cs
+D:\Gitы\c-ktshki\Задание «IntArrayList»\Задание «IntArrayList»\obj\Debug\net6.0\Задание «IntArrayList».csproj.CoreCompileInputs.cache

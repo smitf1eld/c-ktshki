@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание «IntArrayList»", "Задание «IntArrayList»\Задание «IntArrayList».csproj", "{9FC22649-A485-4390-BA82-55DEDFD65482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC22649-A485-4390-BA82-55DEDFD65482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC22649-A485-4390-BA82-55DEDFD65482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC22649-A485-4390-BA82-55DEDFD65482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC22649-A485-4390-BA82-55DEDFD65482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8318BF7-77CB-4586-86F1-7F845BDD4308}
+	EndGlobalSection
+EndGlobal
